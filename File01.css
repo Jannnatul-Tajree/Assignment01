@@ -1,0 +1,54 @@
+.portfolio{
+    display:flex;
+}
+.left-side{
+    width: 50%;
+    height: 400px;
+    background-color: dodgerblue;
+}
+.right.side{
+    width: 50%;
+    height:400px;
+    background-color: darkkhaki;
+}
+.top{
+    height: 50%;
+    background-color: darkmagenta;
+    color:white;
+}
+.bottom{
+    height: 50%;
+    background-color: darkred;
+    color:White;
+}
+.complex{
+    height: 600px;
+    display:flex;
+}
+.left-part{
+    width: 25%;
+    height: 100%;
+    background-color: blueviolet;
+}
+.center{
+    width: 50%;
+    height: 100%;
+    background-color: aqua;
+}
+.top-part{
+    height: 25%;
+    background-color:darkorange;
+}
+.middle-part{
+    height: 50%;
+    background-color: springgreen;
+}
+.bottom-part{
+    height: 25%;
+    background-color: indianred;
+}
+.right-part{
+    width: 25%;
+    height: 100%;
+    background-color: darkviolet;
+}

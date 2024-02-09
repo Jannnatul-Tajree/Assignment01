@@ -1,0 +1,45 @@
+
+.dasboard{
+    display: flex;
+    height: 800px;
+}
+.content{
+    width:80% ;
+    background-color:coral ;
+    height: 100%;
+}
+.header{
+    text-align: center;
+    background-color: aquamarine;
+    height: 20px;
+}
+.main-content{
+height: 80%;
+}
+.first-row{
+    display: flex;
+height: 60%;
+background-color: darkmagenta;
+}
+.left-side{
+width: 60%;
+background-color: crimson;
+height: 100%;
+}
+.right-side{
+    width: 40%;
+    background-color: rgb(red, green, blue);
+    height: 100%;
+}
+.right-top{
+    width: 60%;
+    background-color: white;
+}
+.right-bottom{
+    width: 60%;
+    background-color: black;
+}
+.second-row{
+height: 40%;
+background-color: darkviolet;
+}
